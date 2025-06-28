@@ -1,4 +1,4 @@
-baseURL = 'https://asAsadwS.github.io/'
+baseURL = 'https://Lbset.github.io/'
 languageCode = 'zh-CN'
-title = 'asAsadwS`s Blog'
+title = 'Lbset - A Kards simulator'
 theme = 're-terminal'
